@@ -9,7 +9,7 @@
             padding: 40px;
             background: url('https://images.unsplash.com/photo-1519389950473-47ba0277781c') no-repeat center center fixed;
             background-size: cover;
-            port = 3360
+            port = 33689
         }
 
         h1, h2 {
