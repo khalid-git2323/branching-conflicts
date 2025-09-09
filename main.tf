@@ -17,9 +17,10 @@
         }
 
         form {
-            display: flex;
+            display: flex; 
             gap: 10px;
             margin-bottom: 20px;
+            "Naresh it aws cloud deveops engineer course this trainer is veerabhabhu narni"
         }
 
         input {
