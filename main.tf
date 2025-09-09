@@ -13,7 +13,7 @@
 
         h1, h2 {
             color: white;
-            text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.0.0.00.0.00.00.06);
         }
 
         form {
